@@ -1,0 +1,30 @@
+body {
+    color:azure;
+    background:#ffa600;
+}
+span {
+    font: size 30px;
+}
+#camera, #result {
+    border:2px dashed white;
+    width:350px;
+    height:300px;
+}
+.object_name {
+    font: size 40px;
+}
+.gesture_icon {
+    font: size 40px;
+}
+.heading {
+    font-size:18px;
+    border-radius:10px;
+    letter-spacing:10px;
+}
+label {
+    font: size 140px;
+    color:#eba102;
+    padding:6px;
+    border-radius:10px;
+    background-color:cornsilk;
+}
